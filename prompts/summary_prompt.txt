@@ -1,0 +1,4 @@
+Summarize the following source excerpts into a concise research summary (5-8 sentences or bullet points). Focus on the key facts, findings, and any numbers or dates mentioned. Do not add information that isn't present in the excerpts. Tag claims with their source labels, e.g. [S1], just like a cited answer.
+
+Source excerpts:
+{context}

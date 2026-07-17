@@ -1,0 +1,36 @@
+Northwind Traders — Q1 2026 Market Research Summary
+
+Overview
+This report summarizes findings from our Q1 2026 customer survey (n=1,240 respondents) and
+competitive analysis of three main competitors: Alpine Retail, Coastal Supply Co., and
+Meridian Goods.
+
+Customer Satisfaction
+Overall customer satisfaction (CSAT) rose to 82%, up from 76% in Q4 2025. The improvement is
+largely attributed to the new same-day delivery option launched in January 2026, which 68% of
+surveyed customers said they had used at least once. Net Promoter Score (NPS) improved from
++24 to +31 over the same period.
+
+Pricing Sensitivity
+41% of respondents said price was their top purchasing factor, followed by delivery speed
+(27%) and product quality (19%). Customers in the 18-29 age bracket were significantly more
+price-sensitive than those aged 45+, with 58% citing price as the top factor versus 29%.
+
+Competitive Landscape
+Alpine Retail continues to lead on price, averaging 8% lower prices across our tracked basket
+of 50 SKUs. However, Alpine's average delivery time (4.2 days) is nearly double ours (2.3 days).
+Coastal Supply Co. has the highest customer satisfaction among competitors at 79% CSAT, driven
+by their loyalty program, which we do not currently have an equivalent to. Meridian Goods has
+seen declining market share, dropping from 18% to 14% of the regional market over the past year.
+
+Recommendations
+1. Launch a loyalty/rewards program in Q2 2026 to close the gap with Coastal Supply Co.
+2. Consider targeted discounting for the 18-29 segment, where price sensitivity is highest.
+3. Continue investing in delivery speed as a key differentiator versus Alpine Retail.
+4. Monitor Meridian Goods' pricing moves closely, as their declining share may lead to
+   aggressive discounting in Q2.
+
+Methodology Note
+Survey was conducted online between January 15 and February 10, 2026, with a margin of error
+of +/- 2.8% at a 95% confidence level. Competitive pricing data was collected via weekly
+automated price checks across each competitor's top 50 SKUs by volume.

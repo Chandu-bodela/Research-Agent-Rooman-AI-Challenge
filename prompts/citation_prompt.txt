@@ -1,0 +1,12 @@
+Answer the question below using only the numbered source excerpts.
+
+Question:
+{question}
+
+Source excerpts:
+{context}
+
+Instructions:
+- Tag every claim with its source label, e.g. [S1].
+- If the excerpts don't contain the answer, say so exactly as instructed in your system prompt — do not guess.
+- Keep the answer focused and well-structured.

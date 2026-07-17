@@ -1,0 +1,32 @@
+# Environment
+.env
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Data generated at runtime (keep folder structure, not contents)
+data/uploads/*
+!data/uploads/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+data/embeddings/*
+!data/embeddings/.gitkeep
+
+# Database
+database/*.db
+
+# Exports
+outputs/reports/*
+!outputs/reports/.gitkeep
+outputs/answers/*
+!outputs/answers/.gitkeep
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
